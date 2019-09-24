@@ -26,4 +26,4 @@
  
 ### SCREENSHOT
 
-<img src="/screenshots/1.png" width="90%"></img>
+<img src="/screenshots/1.png" width="90%"></img> <img src="/screenshots/2.png" width="90%"></img>
